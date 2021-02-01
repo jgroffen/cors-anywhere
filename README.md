@@ -125,6 +125,8 @@ see the sample code in [test/test-examples.js](test/test-examples.js).
 
 ### Demo server
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 A public demo of CORS Anywhere is available at https://cors-anywhere.herokuapp.com. This server is
 only provided so that you can easily and quickly try out CORS Anywhere. To ensure that the service
 stays available to everyone, the number of requests per period is limited, except for requests from
